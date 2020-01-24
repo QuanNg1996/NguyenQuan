@@ -11,7 +11,7 @@
 
     $('nav a[href*="#"]').on('click', function () {
       $('html, body').animate({
-        scrollTop: $($(this).attr('href')).offset().top
+        scrollTop: $($(this).attr('href')).offset().top -270
       },2000);
     });
 
@@ -27,4 +27,3 @@
       }, 2000)
     });
 });
-
