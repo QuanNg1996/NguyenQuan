@@ -357,7 +357,7 @@ textarea {
 
 input[type="submit"] {
   width: initial;
-  background-color: #fd57bf;
+  background-color: #3883ff;
   color: #eee;
   padding: 1rem 2rem;
   cursor: pointer;
@@ -366,7 +366,7 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
   color: #221e3f;
-  background-color: #ffe838;
+  background-color: #0771fc;
 }
 /* End Contact*/
 
@@ -388,7 +388,6 @@ input[type="submit"]:hover {
     border-radius: 100%;
     right: 5rem;
     display: flex;
-    animation: pulse 2s infinite;
     cursor: pointer;
   }
 
@@ -422,7 +421,7 @@ input[type="submit"]:hover {
 
 @media screen and (max-width: 768px) {
   body {
-    background: url("images/sitebg.jpg") no-repeat center fixed;
+    background: url("images/portfolio-background.jpeg") no-repeat center fixed;
     background-size: cover;
   }
 
