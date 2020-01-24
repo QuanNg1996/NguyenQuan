@@ -324,6 +324,7 @@ li {
     text-transform: uppercase;
     color: #3883ff;
     transition: color 650ms;
+    padding: 1rem;
   }
 
   .portfolio-description .cta:hover {
