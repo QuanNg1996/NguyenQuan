@@ -15,12 +15,6 @@ $(document).ready(function () {
     },2000);
   });
 
-  $('#button').on('click', function () {
-    $('html, body').animate({
-      scrollTop: 575
-    }, 2000);
-  });
-
   $('#up').on('click', function() {
     $('html, body').animate({
       scrollTop: 0
