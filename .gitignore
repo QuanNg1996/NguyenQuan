@@ -1,5 +1,0 @@
-# Ignore images file
-images/*
-# Ignore Mac and Linux file system files
-.DS_Store
-.gitignore*
