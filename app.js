@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(() => {
   $('.menu-toggler').on('click', function () {
     $(this).toggleClass('open');
     $('.top-nav').toggleClass('open');
@@ -12,7 +12,7 @@ $(document).ready(function () {
   $('nav a[href*="#"]').on('click', function () {
     $('html, body').animate({
       scrollTop: $($(this).attr('href')).offset().top -270
-    },2000);
+    }, 2000);
   });
 
   $('#button').on('click', function () {
