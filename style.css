@@ -423,6 +423,8 @@ input[type="submit"]:hover {
   body {
     background: url("images/portfolio-background.jpeg") no-repeat center fixed;
     background-size: cover;
+    overflow-x: hidden;
+    width: 100%;
   }
 
   .landing-text h1 {
@@ -446,7 +448,7 @@ input[type="submit"]:hover {
   }
 
   .about-heading h1 {
-    font-size: 8rem;
+    font-size: 6rem;
   }
 
   .section-heading h1 {
