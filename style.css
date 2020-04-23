@@ -221,10 +221,22 @@ li {
   color: #38a1f3;
 }
 
-.fa-instagram:hover {
-  color: #ea4c89;
-}
 /* End about */
+
+/* Start skills */
+  .skill-logos {
+    align-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 5vh;
+  }
+
+  .column {
+    font-size: 8rem;
+    justify-content: space-around;
+  }
+/* End skills */
 
 /* Start reusable */
 .container {
