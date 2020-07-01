@@ -159,7 +159,8 @@ li {
 }
 
 .landing-text button {
-  font-family: 'Open Sans',sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  border: solid;
   width: 20rem;
   height: 5rem;
   margin-top: 2rem;
