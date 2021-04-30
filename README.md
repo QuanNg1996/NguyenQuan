@@ -2,4 +2,4 @@
 
 ### Click on the link below to view my portfolio !
 
-www.findnguyenquan.com
+https://quanng1996.github.io/NguyenQuan/
